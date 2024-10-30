@@ -8,7 +8,9 @@ This project leverages customer data to predict responses to a marketing campaig
 
 # Data Description
 
-The dataset includes information about customer demographics, spending on various products, interaction with previous campaigns, and response to the current campaign. Key features include:
+The dataset was taken from Kaggle: https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign
+
+It includes information about customer demographics, spending on various products, interaction with previous campaigns, and response to the current campaign. Key features include:
 
 Customer Information: Income, marital status, education level, number of children and teenagers at home.
 
