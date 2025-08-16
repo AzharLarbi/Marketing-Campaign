@@ -1,4 +1,4 @@
-# Marketing Campaign Response Prediction
+# Data driven Customer Targeting Campaign Optimization
 
 ## Project Overview
 This project applies machine learning to predict customer responses to a marketing campaign, with the goal of helping businesses **improve targeting, reduce wasted spend, and increase campaign ROI**.  
