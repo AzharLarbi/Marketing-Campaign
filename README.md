@@ -39,37 +39,6 @@ Key insights from EDA included:
 - **Complaints:** Customers with prior complaints were less likely to respond.  
 - **Education:** Graduate and Ph.D. holders showed higher response rates.  
 
----
-
-## Data Preprocessing
-Steps included:  
-- Handling missing values (e.g., imputing missing income).  
-- Min-Max scaling of numerical features.  
-- One-hot encoding for categorical features.  
-- Train/validation/test split for reliable evaluation.  
-
----
-
-## Modeling
-1. **Logistic Regression**  
-   - Served as a baseline model.  
-   - Achieved ~92% training accuracy, demonstrating initial predictive power.  
-
-2. **Decision Tree Classifier**  
-   - Improved interpretability, highlighting key predictors (e.g., previous campaign response).  
-   - Achieved ~85% validation accuracy with tuned depth.  
-
-3. **Random Forest Classifier**  
-   - Delivered the strongest performance (~87% validation accuracy).  
-   - Captured non-linear relationships and reduced overfitting through ensemble learning.  
-
----
-
-## Evaluation
-Models were evaluated using:  
-- **Accuracy Scores** across train, validation, and test sets.  
-- **Confusion Matrices** to understand precision/recall trade-offs.  
-- **Feature Importance** (for tree-based models) to identify the most influential predictors.  
 
 ---
 
